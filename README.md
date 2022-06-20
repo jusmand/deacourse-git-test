@@ -1,7 +1,7 @@
 <h1>hasil karya management barudak course</h1>
 
 based url: https://deaaprizal.github.io/deacourse-starter-temp-w-new-age-lib
-check routes url team di: 
+check routes url team di:
 /team1
 /team2
 /team3
